@@ -63,9 +63,6 @@ body {
     justify-content: space-between;
     flex-wrap: wrap;
     
-    
-
-    
 
 
 
@@ -73,18 +70,16 @@ body {
 .button-car{
     text-decoration: none;
     height: 48px;
-    background-color: #1432a7;
+    background-color: #192dc9;
     color: #fff;
     padding: 0 32px;
     display: flex;
-    align-items: center;
+    align-items: bottom;
     border-radius: 4px;
-    text-decoration: none;
+    
 }
 
 
-
-
 .btn-hover.color-9 {
-    background-image: linear-gradient(to right, #25aae1, #4481eb, #04befe, #3f86ed);
+    background-image: linear-gradient(to right, #25aae1, #4481eb, #5fafcc, #3f86ed);
     box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75);}
