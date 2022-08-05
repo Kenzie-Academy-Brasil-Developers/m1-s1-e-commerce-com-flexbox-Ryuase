@@ -62,7 +62,10 @@ body {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    gap: 26%;
+    
+    
+
+    
 
 
 
@@ -76,6 +79,7 @@ body {
     display: flex;
     align-items: center;
     border-radius: 4px;
+    text-decoration: none;
 }
 
 
